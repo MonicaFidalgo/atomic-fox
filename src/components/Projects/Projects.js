@@ -17,6 +17,7 @@ function Projects() {
         title={data.name}
         description={data.description}
         link={data.url}
+        id={data.id}
       /></Col>
   ));
 

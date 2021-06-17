@@ -451,14 +451,27 @@ html {
   height: auto !important;
 }
 
+
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
   color: white !important;
   background-color: transparent !important;
-  opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
+  border: none !important;
 }
+
+.project-card-view1 {
+  background: linear-gradient(to right, rgb(213, 133, 255) 0%, rgb(0, 255, 238) 100%);
+}
+
+.project-card-view2 {
+  background: linear-gradient(to right, rgb(212, 20, 90) 0%, rgb(251, 176, 59) 100%);
+}
+
+/* background: linear-gradient(to right, rgb(0, 146, 69) 0%, rgb(252, 238, 33) 100%);
+background: linear-gradient(to right, rgb(102, 45, 140) 0%, rgb(237, 30, 121) 100%); */
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
@@ -498,13 +511,10 @@ html {
 
 .card-img-top {
   padding: 20px !important;
-  opacity: 0.8 !important;
-  border-radius: 10px !important;
 }
 
 .blog-img {
   padding: 0px !important;
-  opacity: 0.8 !important;
   border-radius: 0px !important;
 }
 
@@ -545,7 +555,6 @@ html {
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;
-  opacity: 0.93 !important;
   border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
   vertical-align: middle !important;
   text-align: center !important;
