@@ -40,7 +40,7 @@ function Home() {
                 </li>
                 <li className="social-icons">
                   <a
-                    href="https://twitter.com/LovinLivinGivin"
+                    href="https://twitter.com/coding_mermaid"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
