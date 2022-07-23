@@ -27,7 +27,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/LovinLivinGivin"
+                href="https://twitter.com/coding_mermaid"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-twitter"></i>
